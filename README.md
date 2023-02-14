@@ -1,3 +1,16 @@
-#Hey,I'm Kareem Ebrahem,i'm 19 years old,i'm from Egypt,Dakahliya,Mansoura#
+# Hi there 👋
+# I mostly focus on Frontend, but I also like to learn ethical hacking.
 
-###I'm A Frontend Developer,I Have Experience in Frontend For 2y,And I have Another Skills Too Like,Github,AWS,AZURE,And I also have a great knowledge of how to use Linux distributions such as: Kali Linux, Ubuntu, Arch Linux,and many others, and I also have some knowledge in cybersecurity and ethical hacking,And I also have experience in handling all Android issues and fixing them with ease###
+⚡Languages I can actually write code in
+
+• Web(Html,CSS,JavaScript)
+
+# ⚙️ I also have experience in how to work with AWS, GCP, Azure and how to work with Linux distributions,I also have great knowledge of the Android system, and I can solve a very large percentage of the problems that occur with it
+
+🌱 How do I spend my free time?
+
+• I am working on developing my skills.
+• Learning new skills.
+
+🔭 My GitHub stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrx7014&show_icons=true&theme=transparent)

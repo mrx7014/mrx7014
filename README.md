@@ -7,7 +7,7 @@
 
 ⚙️ I also have experience in how to work with AWS, GCP, Azure and how to work with Linux distributions,I also have great knowledge of the Android system, and I can solve a very large percentage of the problems that occur with it
 
-🌱 How do I spend my free time?
+☕ How do I spend my free time?
 
 • I am working on developing my skills.
 
@@ -18,5 +18,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrx7014&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrx7014&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrx7014)](https://github.com/anuraghazra/github-readme-stats)

@@ -5,7 +5,7 @@
 
 • Web(Html,CSS,JavaScript)
 
-# ⚙️ I also have experience in how to work with AWS, GCP, Azure and how to work with Linux distributions,I also have great knowledge of the Android system, and I can solve a very large percentage of the problems that occur with it
+⚙️ I also have experience in how to work with AWS, GCP, Azure and how to work with Linux distributions,I also have great knowledge of the Android system, and I can solve a very large percentage of the problems that occur with it
 
 🌱 How do I spend my free time?
 

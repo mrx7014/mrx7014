@@ -31,6 +31,9 @@
 [<img align="left" alt="Segfault" width="26px" src="https://pbs.twimg.com/profile_images/1216245185/percy2_400x400.png" />](#)
 
 <br />
+<br />
+<br />
+<br />
 
 🌱 How do I spend my free time?
 - At home

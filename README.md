@@ -30,6 +30,14 @@
 [<img align="left" alt="AWS" width="35px" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" />](#)
 [<img align="left" alt="Segfault" width="26px" src="https://pbs.twimg.com/profile_images/1216245185/percy2_400x400.png" />](#)
 
+<br />
+
+🌱 How do I spend my free time?
+- At home
+- Tinkering with Android or linux
+- Learning new skills
+- Development my skills
+
 🔭 My GitHub stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrx7014&show_icons=true&theme=tokyonight)

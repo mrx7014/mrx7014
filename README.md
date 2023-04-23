@@ -29,10 +29,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrx7014&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### ⚡ GitHub Stats
-
-[<img alt="mrx7014's GitHub Stats" src="https://github-readme-stats.mrx7014.vercel.app/api?username=mrx7014&show_icons=true&include_all_commits=true&count_private=true&theme=merko" />](#)
-
 ### 🏆 Github Profile Trophy
 
 [<img src="https://github-profile-trophy.vercel.app/?username=mrx7014&theme=darkhub&no-bg=true&row=1" alt="mrx7014" />](#)

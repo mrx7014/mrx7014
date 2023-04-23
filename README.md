@@ -3,15 +3,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mrx7014" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/svg/globe.svg" />][website]
-[<img align="left" alt="fr3akyphantom | LinkedIn" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.16.0/linkedin.svg" />][linkedin]
-[<img align="left" alt="fr3akyphantom | Facebook" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.16.0/facebook.svg" />][facebook]
-[<img align="left" alt="fr3akyphantom | Telegram" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.16.0/telegram.svg" />][telegram]
-[<img align="left" alt="fr3akyphantom | Twitter" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.16.0/twitter.svg" />][twitter]
-[<img align="left" alt="fr3akyphantom | Gmail" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.16.0/gmail.svg" />][gmail]
-[<img align="left" alt="fr3akyphantom | Outlook Mail" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.16.0/microsoftoutlook.svg" />][outlook]
-
-<br />
+<a href="https://linktr.ee/mrx7014">
+  <img src="https://logos-world.net/wp-content/uploads/2022/12/Linktree-Emblem.png"></a>
+  </a>
 
 ### Languages and Tools:
 

@@ -13,7 +13,7 @@
 [<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png" />](#)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />](#)
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" />](#)
-[<img align="left" alt="KaliLinux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />](#)
+[<img align="left" alt="KaliLinux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />](#)
 
 
 <br />

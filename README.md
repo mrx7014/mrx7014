@@ -5,7 +5,7 @@
 
 <a href="https://linktr.ee/mrx7014">
   <img src="https://logos-world.net/wp-content/uploads/2022/12/Linktree-Emblem.png"
-       width="90px"></a>
+       width="110px"></a>
   </a>
 
 ### Languages and Tools:

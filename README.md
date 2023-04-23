@@ -29,6 +29,7 @@
 [<img align="left" alt="GCP" width="35px" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Logo.png" />](#)
 [<img align="left" alt="AWS" width="35px" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" />](#)
 [<img align="left" alt="Segfault" width="26px" src="https://pbs.twimg.com/profile_images/1216245185/percy2_400x400.png" />](#)
+</br>
 
 ☕ How do I spend my free time?
 

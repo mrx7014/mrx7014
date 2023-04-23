@@ -26,7 +26,7 @@
 [<img align="left" alt="Termux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Termux_2.png" />](#)
 [<img align="left" alt="Linux" width="26px" src="https://www.freepnglogos.com/uploads/linux-png/linux-logo-logo-brands-for-0.png" />](#)
 [<img align="left" alt="Azure" width="26px" src="https://swimburger.net/media/fbqnp2ie/azure.svg" />](#)
-[<img align="left" alt="GCP" width="35px" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Logo.png" />](#)
+[<img align="left" alt="GCP" width="50px" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Logo.png" />](#)
 [<img align="left" alt="AWS" width="35px" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" />](#)
 [<img align="left" alt="Segfault" width="26px" src="https://pbs.twimg.com/profile_images/1216245185/percy2_400x400.png" />](#)
 

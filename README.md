@@ -1,6 +1,9 @@
 # Hi there 👋
 # I mostly focus on Frontend, but I also like to learn ethical hacking.
 
+[![](https://visitcount.itsvg.in/api?id=mrx7014=0&color=0)](https://visitcount.itsvg.in)
+
+
 ### Connect with me:
 
 <a href="https://linktr.ee/mrx7014">

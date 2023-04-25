@@ -1,7 +1,7 @@
 # Hi there 👋
 # I mostly focus on Frontend, but I also like to learn ethical hacking.
 
-[![](https://visitcount.itsvg.in/api?id=binsarjr&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mrx7014&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ### Connect with me:

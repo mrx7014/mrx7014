@@ -1,5 +1,5 @@
 # Hi there 👋
-# I mostly focus on Frontend, but I also like to learn ethical hacking.
+# I am Kareem (MRX7014),I mostly focus on Frontend and Programming, but I also like to learn ethical hacking and building custom roms and custom recoveries.
 
 [![](https://visitcount.itsvg.in/api?id=mrx7014&icon=0&color=0)](https://visitcount.itsvg.in)
 

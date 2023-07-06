@@ -46,7 +46,7 @@
 🔭 My GitHub stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrx7014&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrx7014&theme=github)
+![](https://github-readme-stats.vercel.app/api?username=mrx7014&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrx7014&layout=compact)
 

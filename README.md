@@ -18,7 +18,7 @@
 [![](https://visitcount.itsvg.in/api?id=mrx7014&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-### Connect with me: <img src=images/handshake.gif>
+### Connect with me: <img src="images/handshake.gif" height="32px" style="margin-bottom: -5px;">
 
 <a href="https://linktr.ee/mrx7014">
   <img src="https://logos-world.net/wp-content/uploads/2022/12/Linktree-Emblem.png"

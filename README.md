@@ -7,7 +7,7 @@
 
 <!--Typing  svg-->
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Kareem+MRX7014!...;A+Frontend+Developer+...;and+Average+At+Cyber+Security;And+Average+in+building+Custom+ROMs;and+Custom+recoveries;And+have+many+other+skills+like:;Bash+Scripting;Android+software+problems+solving;and+How+to+use+operating+systems;Like:+Linux+Windows+Android+etc...;Great+to+have+you+here!&center=true&size=20" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Kareem+MRX7014!...;A+Frontend+Developer+...;And+Many+Other+Things+...;Great+to+have+you+here!&center=true&size=20" alt="Typing SVG" /></a>
 </h1>
 <!--Typing svg-->
 

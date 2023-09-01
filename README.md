@@ -30,7 +30,9 @@
 🔭 My GitHub stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrx7014&theme=github)
+
 <br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=mrx7014&show_icons=true&theme=tokyonight&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&text_color=a3a3a3">
 </a>

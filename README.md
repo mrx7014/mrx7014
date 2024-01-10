@@ -33,4 +33,4 @@
 
 ### 🔥 Github Streak Stats
 
-[<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrx7014&theme=tokyonight_duo" alt="mrx7014" />](#)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mrx7014)](https://git.io/streak-stats)

@@ -39,9 +39,8 @@
 
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mrx7014&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
-</a>
+<img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mrx7014" />
+
 
 ### 🏆 Github Profile Trophy
 

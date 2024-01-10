@@ -29,8 +29,8 @@
 
 <br>
 
-<img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mrx7014" />
+<img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mrx7014"/>
 
 ### 🔥 Github Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-nine-rho.vercel.app?user=mrx7014)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-nine-rho.vercel.app?user=mrx7014&theme=dark)](https://git.io/streak-stats)

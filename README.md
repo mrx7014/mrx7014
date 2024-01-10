@@ -1,20 +1,6 @@
 # Hi there 🫵
 *I am Kareem (MRX7014),I mostly focus on Frontend and Programming, but I also like to learn ethical hacking and building custom roms and custom recoveries and many other things.*
 
-<p align="center">
-  <img src="images/Rainbow.gif" width="100vw">
-  </p>
-
-<!--Typing  svg-->
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Kareem+MRX7014!...;A+Frontend+Developer+...;And+Many+Other+Things+...;Great+to+have+you+here!&center=true&size=20" alt="Typing SVG" /></a>
-</h1>
-<!--Typing svg-->
-
-<!--svg-->
-<img src="images/header_.png">
-<!--svg-->
-
 ### Connect with me:<img src="images/handshake.gif" height="32px" style="margin-bottom: -5px;">
 
 <a href="https://linktr.ee/mrx7014">

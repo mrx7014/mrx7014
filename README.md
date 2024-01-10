@@ -33,4 +33,4 @@
 
 ### 🔥 Github Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mrx7014)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-nine-rho.vercel.app?user=mrx7014)](https://git.io/streak-stats)

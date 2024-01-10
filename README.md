@@ -21,7 +21,7 @@
 
 🔭 My GitHub stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrx7014&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrx7014&theme=dark)
 
 <br>
 

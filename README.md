@@ -25,9 +25,7 @@
 
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=mrx7014&show_icons=true&theme=tokyonight&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&text_color=718096">
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrx7014\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <br>
 

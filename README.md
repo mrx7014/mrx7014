@@ -1,12 +1,6 @@
 # Hi there 🫵
 *I am Kareem (MRX7014),I mostly focus on Frontend and Programming, but I also like to learn ethical hacking,building custom roms,custom recoveries and many other things.*
 
-• 🌍 I'm based in Mansoura, Egypt
-• 🖥️ See my portfolio at <a href="https://mrx7014.github.io">My portfolio</a>
-• ✉️ You can contact me at <a href="https://t.me/mrx7014">Telegram</a>
-• 🧠 I'm learning ARE
-• 🤝 I'm open to collaborating on Open Source Software (OSS)
-
 # Connect with me <img src="images/handshake.gif" height="32px" style="margin-bottom: -5px;">
 
 <p align="center">

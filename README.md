@@ -3,9 +3,10 @@
 
 # Connect with me <img src="images/handshake.gif" height="32px" style="margin-bottom: -5px;">
 
+<p align="center">
 <a href="https://linktr.ee/mrx7014">
   <img src="images/Picsart_23-07-08_13-44-21-298.png"
-       width="110px"></a>
+       width="110px"></a></p>
 
 ### Languages and Tools:
 

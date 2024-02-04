@@ -1,11 +1,7 @@
 # Hi there 🫵
 *I am Kareem (MRX7014),I mostly focus on Frontend and Programming, but I also like to learn ethical hacking,building custom roms,custom recoveries and many other things.*
 
-<br>
-<p align="center">
-  
 [![committers.top badge](https://user-badge.committers.top/egypt/mrx7014.svg)](https://user-badge.committers.top/egypt/mrx7014)
-</p>
 
 # Connect with me <img src="images/handshake.gif" height="32px" style="margin-bottom: -5px;">
 

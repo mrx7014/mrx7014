@@ -8,7 +8,7 @@
 
 </p>
 
-**Connect with me:** <a href="https://linktr.ee/mrx7014"> <img src="images/Picsart_23-07-08_13-44-21-298.png" width="90px"></a></p>
+**Connect with me:** <a href="https://linktr.ee/mrx7014"> <img src="images/Picsart_23-07-08_13-44-21-298.png" width="70px"></a></p>
 
 <hr>
 

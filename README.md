@@ -9,7 +9,7 @@
 
 <a href="https://linktr.ee/mrx7014">
   <img src="images/Picsart_23-07-08_13-44-21-298.png"
-       width="100px"></a></p>
+       width="130px"></a></p>
 <hr>
 
 ### Languages and Tools:

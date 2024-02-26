@@ -1,5 +1,5 @@
 # Hi there 🫵
-*I am Kareem (MRX7014),I mostly focus on Frontend and Programming, but I also like to learn ethical hacking,building custom roms,custom recoveries and many other things.*
+**I am Kareem (MRX7014),I mostly focus on Frontend and Programming, but I also like to learn ethical hacking,building custom roms,custom recoveries and many other things.**
 
 <p align="center">
   
@@ -39,4 +39,4 @@
 
 ### 🔥 Github Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-nine-rho.vercel.app?user=mrx7014&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrx7014&theme=dark)](https://git.io/streak-stats)

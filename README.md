@@ -1,5 +1,5 @@
 # Hi there 🫵
-**I am Kareem (MRX7014),I mostly focus on Frontend and Programming, but I also like to learn ethical hacking,building custom roms,custom recoveries and many other things.**
+**I am Kareem (MRX7014),I mostly focus on Frontend and Programming, but I also like to learn ethical hacking,building custom roms,custom recoveries , Have experince in Linux and Bash Scripting and many other things.**
 
 <p align="center">
   

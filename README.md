@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrx7014&label=Profile%20views&color=0e75b6&style=flat" alt="mrx7014" /> </p>
 
-<p align="left"> [![committers.top badge](https://user-badge.committers.top/egypt/USERNAME.svg)](https://user-badge.committers.top/egypt/USERNAME) </p>
+[![committers.top badge](https://user-badge.committers.top/egypt/USERNAME.svg)](https://user-badge.committers.top/egypt/USERNAME)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrx7014" alt="mrx7014" /></a> </p>
 

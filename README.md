@@ -35,6 +35,7 @@
 
 <br>
 
+<h3>Github Streak:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrx7014&show_icons=true&locale=en&layout=compact" alt="mrx7014" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrx7014&show_icons=true&locale=en" alt="mrx7014" /></p>

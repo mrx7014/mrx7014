@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mrx7014.github.io](https://mrx7014.github.io)
 
-- 💬 Ask me about **Linux, Android Custom ROMS and RECOVERIES**
+- 💬 Ask me about **Linux, Android Custom ROMS and RECOVERIES, Bash Scripts**
 
 - 📫 How to reach me **safen894@gmail.com**
 

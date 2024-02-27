@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kareem // MRX7014</h1>
 <h3 align="center">I am Kareem (MRX7014),I mostly focus on Frontend and Programming, but I also like to learn ethical hacking,building custom roms,custom recoveries , Have experince in Linux and Bash Scripting and many other things.</h3>
 
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrx7014&label=Profile%20views&color=0e75b6&style=flat" alt="mrx7014" /> </p>
 
 [![committers.top badge](https://user-badge.committers.top/egypt/mrx7014.svg)](https://user-badge.committers.top/egypt/mrx7014)

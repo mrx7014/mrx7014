@@ -29,8 +29,6 @@
 <h3>Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mrx7014"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrx7014" /></a></p>
 
-<hr>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrx7014&show_icons=true&locale=en&layout=compact" alt="mrx7014" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrx7014&show_icons=true&locale=en" alt="mrx7014" /></p>

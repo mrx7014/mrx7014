@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrx7014" alt="mrx7014" /></a> </p>
 
-- 🔭 I’m currently working on [WebGetter](https://github.com/mrx7014/WebGetter)
+- 🔭 I’m currently working on [WebGetter](https://github.com/mrx7014/WebGetter), [A23 Twrp Tree](https://github.com/mrx7014/twrp_device_samsung_a23), [SSH-Kali Linux (Segfault](https://github.com/mrx7014/SSH-KaliLinux), [SPSS For Android](https://github.com/mrx7014/SPSS_Android)
 
 - 🌱 I’m currently learning **Python, Bash and many other things.**
 
@@ -28,6 +28,8 @@
 
 <h3>Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mrx7014"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrx7014" /></a></p>
+
+<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrx7014&show_icons=true&locale=en&layout=compact" alt="mrx7014" /></p>
 

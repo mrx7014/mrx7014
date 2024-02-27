@@ -31,12 +31,14 @@
 
 <br>
 
-<hr>
-
 ### Github Streak
 
+<p align="left">
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrx7014&show_icons=true&locale=en&layout=compact" alt="mrx7014" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrx7014&show_icons=true&locale=en" alt="mrx7014" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrx7014&" alt="mrx7014" /></p>
+
+</p>

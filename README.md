@@ -1,42 +1,36 @@
-# Hi there 🫵
-**I am Kareem (MRX7014),I mostly focus on Frontend and Programming, but I also like to learn ethical hacking,building custom roms,custom recoveries , Have experince in Linux and Bash Scripting and many other things.**
+<h1 align="center">Hi 👋, I'm Kareem // MRX7014</h1>
+<h3 align="center">I am Kareem (MRX7014),I mostly focus on Frontend and Programming, but I also like to learn ethical hacking,building custom roms,custom recoveries , Have experince in Linux and Bash Scripting and many other things.</h3>
 
-<p align="center">
-  
-# Top Commits Rank:
-[![committers.top badge](https://user-badge.committers.top/egypt/mrx7014.svg)](https://user-badge.committers.top/egypt/mrx7014)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrx7014&label=Profile%20views&color=0e75b6&style=flat" alt="mrx7014" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrx7014" alt="mrx7014" /></a> </p>
+
+- 🔭 I’m currently working on [WebGetter](https://github.com/mrx7014/WebGetter)
+
+- 🌱 I’m currently learning **Python, Bash and many other things.**
+
+- 🤝 I’m looking for help with [Egypt Open Source](https://github.com/Egypt-Open-Source)
+
+- 👨‍💻 All of my projects are available at [https://mrx7014.github.io](https://mrx7014.github.io)
+
+- 💬 Ask me about **Linux, Android Custom ROMS and RECOVERIES**
+
+- 📫 How to reach me **safen894@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kmrx7014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kmrx7014" height="30" width="40" /></a>
+<a href="https://instagram.com/mrx.7014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrx.7014" height="30" width="40" /></a>
 </p>
 
-# Connect with me:
-<a href="https://linktr.ee/mrx7014"> <img src="images/Picsart_23-07-08_13-44-21-298.png" width="130px"></a></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<hr>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/mrx7014"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrx7014" /></a></p><br><br>
 
-### Languages and Tools:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrx7014&show_icons=true&locale=en&layout=compact" alt="mrx7014" /></p>
 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)     
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrx7014&show_icons=true&locale=en" alt="mrx7014" /></p>
 
-
-### 🔭 My GitHub stats:
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrx7014&theme=dark)
-
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrx7014&theme=dark\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-<br>
-
-<img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mrx7014"/>
-
-### 🔥 Github Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrx7014&theme=dark)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrx7014&" alt="mrx7014" /></p>

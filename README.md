@@ -23,8 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kmrx7014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kmrx7014" height="30" width="40" /></a>
-<a href="https://instagram.com/mrx.7014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrx.7014" height="30" width="40" /></a>
+<a href="https://linktr.ee/mrx7014" target="blank"><img align="center" src="https://raw.githubusercontent.com/mrx7014/mrx7014/main/images/Picsart_23-07-08_13-44-21-298.png" alt="mrx7014" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

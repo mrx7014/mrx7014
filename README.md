@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linktr.ee/mrx7014" target="blank"><img align="center" src="https://raw.githubusercontent.com/mrx7014/mrx7014/main/images/Picsart_23-07-08_13-44-21-298.png" alt="mrx7014" height="60" /></a>
+<a href="https://linktr.ee/mrx7014" target="blank"><img align="center" src="https://raw.githubusercontent.com/mrx7014/mrx7014/main/images/Picsart_23-07-08_13-44-21-298.png" alt="mrx7014" height="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

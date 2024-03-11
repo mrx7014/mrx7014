@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrx7014" alt="mrx7014" /></a> </p>
 
-- 🔭 I’m currently working on [WebGetter](https://github.com/mrx7014/WebGetter), [A23 Twrp Tree](https://github.com/mrx7014/twrp_device_samsung_a23), [SSH-Kali Linux (Segfault)](https://github.com/mrx7014/SSH-KaliLinux), [SPSS For Android](https://github.com/mrx7014/SPSS_Android)
+- 🔭 I’m currently working on [WebGetter](https://github.com/mrx7014/WebGetter), [A23 Twrp Tree](https://github.com/mrx7014/twrp_device_samsung_a23), [SSH-Kali Linux (Segfault)](https://github.com/mrx7014/SSH-KaliLinux), [SPSS For Android](https://github.com/mrx7014/SPSS_Android), [A23 Lineage Tree](https://github.com/mrx7014/android_device_samsung_a23), [Samsung Tab A7 Twrp Tree](https://github.com/mrx7014/twrp_device_samsung_gta4l)
 
 - 🌱 I’m currently learning **Python, Bash and many other things.**
 

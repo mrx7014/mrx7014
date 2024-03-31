@@ -94,6 +94,7 @@
 
 ###
 
+<p align="left"><b>🐍Snake Streak:</b></p>
 <img src="https://raw.githubusercontent.com/mrx7014/mrx7014/output/snake.svg" alt="Snake animation" />
 
 ###

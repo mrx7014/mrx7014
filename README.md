@@ -17,15 +17,13 @@
 
 - 🔭 I’m currently working on [WebGetter](https://github.com/mrx7014/WebGetter), [A23 Twrp Tree](https://github.com/mrx7014/android_device_samsung_a23-twrp), [SSH-Kali Linux (Segfault)](https://github.com/mrx7014/SSH-KaliLinux), [SPSS For Android](https://github.com/mrx7014/SPSS_Android), [A23 Lineage Tree](https://github.com/mrx7014/android_device_samsung_a23), [Samsung Tab A7 Twrp Tree](https://github.com/mrx7014/twrp_device_samsung_gta4l)
 
-- 🌱 I’m currently learning **Python, Bash and many other things.**
+- 🌱 I’m currently learning **Dart, Bash and many other things.**
 
 - 🤝 I’m looking for help with [Egypt Open Source](https://github.com/Egypt-Open-Source)
 
 - 👨‍💻 All of my projects are available at [https://mrx7014.github.io](https://mrx7014.github.io)
 
 - 💬 Ask me about **Linux, Android Custom ROMS and RECOVERIES, Bash Scripts and many other things.**
-
-- 📫 How to reach me **safen894@gmail.com**
 
 
 <p align="left"><b>✨Contact Me:</b></p>

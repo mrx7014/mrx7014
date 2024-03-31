@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kareem // MRX7014</h1>
-<h3 align="center">I am Kareem (MRX7014),I mostly focus on Frontend and Programming, but I also like to learn ethical hacking,building custom roms,custom recoveries , Have experince in Linux and Bash Scripting and many other things.</h3>
 
-<br>
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrx7014&label=Profile%20views&color=0e75b6&style=flat" alt="mrx7014" /> </p>
+<h5 align="left">I am Kareem (MRX7014),I mostly focus on Frontend and Programming, but I also like to learn ethical hacking,building custom roms,custom recoveries , Have experince in Linux and Bash Scripting and many other things.</h5>
 
-[![committers.top badge](https://user-badge.committers.top/egypt/mrx7014.svg)](https://user-badge.committers.top/egypt/mrx7014)
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrx7014" alt="mrx7014" /></a> </p>
+<hr>
+
+<p align="center"><b>👀Profile Views:</b></p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mrx7014/count.svg?"  />
+</div>
+
+###
 
 - 🔭 I’m currently working on [WebGetter](https://github.com/mrx7014/WebGetter), [A23 Twrp Tree](https://github.com/mrx7014/android_device_samsung_a23-twrp), [SSH-Kali Linux (Segfault)](https://github.com/mrx7014/SSH-KaliLinux), [SPSS For Android](https://github.com/mrx7014/SPSS_Android), [A23 Lineage Tree](https://github.com/mrx7014/android_device_samsung_a23), [Samsung Tab A7 Twrp Tree](https://github.com/mrx7014/twrp_device_samsung_gta4l)
 
@@ -21,22 +27,75 @@
 
 - 📫 How to reach me **safen894@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linktr.ee/mrx7014" target="blank"><img align="center" src="https://raw.githubusercontent.com/mrx7014/mrx7014/main/images/Picsart_23-07-08_13-44-21-298.png" alt="mrx7014" height="80" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"><b>✨Contact Me:</b></p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/kareem-ebrahem-09581a232" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="http://www.twitter.com/kmrx7014" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/18307246/kareem-mrx7014" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
+  <a href="http://t.me/mrx7014" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://medium.com/@mrx7014" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+  <a href="https://linktr.ee/mrx7014" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+  </a>
+</div>
 
-<h3>Support:</h3>
+###
+
+<p align="left"><b>🤝Support:</b></p>
 <p><a href="https://www.buymeacoffee.com/mrx7014"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrx7014" /></a></p>
 
-<br>
+###
 
-<h3>Github Streak:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrx7014&show_icons=true&locale=en&layout=compact" alt="mrx7014" /></p>
+<p align="left"><b>🛠Tools and Languages:</b></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrx7014&show_icons=true&locale=en" alt="mrx7014" /></p>
+<div align="left">
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/neovim/57A143" height="40" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/replit/F26207" height="40" alt="replit logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrx7014&" alt="mrx7014" /></p>
+###
+
+<p align="left"><b>🔭Github Stats:</b></p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrx7014&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrx7014&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=mrx7014&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=mrx7014&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrx7014&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/mrx7014/mrx7014/output/snake.svg" alt="Snake animation" />
+
+###

@@ -17,7 +17,7 @@
 
 ###
 
-- 🔭 I’m currently working on [WebGetter](https://github.com/mrx7014/WebGetter), [A23 Twrp Tree](https://github.com/mrx7014/android_device_samsung_a23-twrp), [SSH-Kali Linux (Segfault)](https://github.com/mrx7014/SSH-KaliLinux), [SPSS For Android](https://github.com/mrx7014/SPSS_Android), [A23 Lineage Tree](https://github.com/mrx7014/android_device_samsung_a23), [Samsung Tab A7 Twrp Tree](https://github.com/mrx7014/twrp_device_samsung_gta4l)
+- 🔭 I’m currently working on [WebGetter](https://github.com/mrx7014/WebGetter), [A23 Twrp Tree](https://github.com/mrx7014/android_device_samsung_a23-twrp), [SSH-Kali Linux (Segfault)](https://github.com/mrx7014/SSH-KaliLinux), [SPSS For Android](https://github.com/mrx7014/SPSS_Android), [A23 Lineage Tree](https://github.com/mrx7014/android_device_samsung_a23), [AFFT - A23 Features Flags Tool](https://github.com/mrx7014/AFFT)
 
 - 🤝 I’m looking for help with [Egypt Open Source](https://github.com/Egypt-Open-Source), [Arab Masters Translators](https://github.com/Arab-Masters-Translators)
 

@@ -21,7 +21,7 @@
 
 - 🤝 I’m looking for help with [Egypt Open Source](https://github.com/Egypt-Open-Source)
 
-- 💬 Ask me about **Linux, Android Custom ROMS and RECOVERIES, Bash Scripts and many other things.**
+- 💬 Ask me about **Linux, Android Custom ROMS and RECOVERIES, Bash Scripts and many many other things.**
 
 
 <p align="left"><b>✨Contact Me:</b></p>

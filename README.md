@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kareem // MRX7014</h1>
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=MRX7014%20&fontColor=7f00ff&animation=twinkling)
 
 ###
 
-<h5 align="left">I am Kareem (MRX7014),I mostly focus on Frontend and Programming, but I also like to learn ethical hacking,building custom roms,custom recoveries , Have experince in Linux and Bash Scripting and many other things.</h5>
+<h3 align="left">I am Kareem (MRX7014),I mostly focus on Frontend and Programming, but I also like to learn ethical hacking,building custom roms,custom recoveries , Have experince in Linux and Bash Scripting and many other things.</h5>
 
 ###
 

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=MRX7014%20&fontColor=7f00ff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=MRX7014&reversal=false&descAlign=28&descAlignY=49&section=header&textBg=false&fontSize=140&animation=twinkling)
 
 ###
 

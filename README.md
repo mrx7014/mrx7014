@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I am Kareem (MRX7014),I mostly focus on Frontend and Programming, but I also like to learn ethical hacking,building custom roms,custom recoveries , Have experince in Linux and Bash Scripting and many other things.</h5>
+<h4 align="left">I'm Kareem (MRX7014),I mostly focus on Frontend and Programming, but I also like to learn ethical hacking,building custom roms,custom recoveries , Have experince in Linux and Bash Scripting and many other things.</h5>
 
 ###
 

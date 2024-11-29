@@ -1,8 +1,6 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: WakaTime
 on:
   schedule: [{ cron: "1 * * * *" }]
-  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
 jobs:
   github-metrics:
@@ -10,12 +8,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Current configuration doesn't require a GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           filename: assets/metrics.plugin.wakatime.svg
-
-          # Options
           user: Envoy-VC
           template: classic
           base: ""

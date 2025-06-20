@@ -24,9 +24,10 @@
 <div align="left">
 
 ```bash
+
 ### About Me :
 
-- **Name**: Kareem [MRX7014]
+- **Name**: MRX7014 (Do not check commits history)
 - **Job Title**: Bug Bounty (Still in KG 1) 👶
 - **Country**: 🏡 Egypt (probably debugging bugs IRL)
 - **Fun Fact**: I am an Octopus 🐙 (8 arms, still can’t multitask properly 🤷)
@@ -34,7 +35,7 @@
 ### 🚀 **Currently Working On**
 - 🐞 Catching Bugs (Learning Bug Bounty)
 - 🤖 Android Development (Breaking and Fixing ROMs)
-- 🐚 Bash Scripting (When copy-paste isn't enough)
+- 🐚 Bash Scripting (When copy-paste is not enough)
 - 🔧 Playing with Magisk and LSPosed (because why not?)
 
 ### 📚 **Currently Learning**
@@ -46,18 +47,19 @@
 - 🖥️ Managing Linux Servers (keeping them alive at 3 AM)
 - 🔗 Magisk & LSPosed Modules (like mods for real life)
 - 💻 Android Development (because stock is boring)
-- 🌐 HTML (still no dark mode though)
+- etc... ( A Real Octopus )
 
 ### 🤔 **Ask Me About**
-- 💻 Technical Support (aka "have you tried turning it off and on again?")
+- 💻 Technical Support (aka have you tried turning it off and on again ?)
 - ⚙️ Operating Systems (Linux is life!)
 - 🤖 Android Development (ROMs and Recoveries, brick-free since 2021)
-- 📂 ROOT, Termux, and Bash Scripting (Android's dark arts)
+- 📂 ROOT, Termux, and Bash Scripting (Android dark arts)
 
 ### Fun Ending:
 👋 Thanks for stopping by! Now back to catching bugs... 🐛  
 P.S. The script is more stable than my sleep schedule.
 ```
+
 </div>
 
 ---

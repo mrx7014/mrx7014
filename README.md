@@ -40,7 +40,7 @@
 
 ### 📚 **Currently Learning**
 - 📜 Advanced Linux (becoming a terminal wizard)
-- 🕵️ JavaScript (so the web doesn’t escape my grasp)
+- A lot of other things (Real Octopus)
 
 ### 🎮 **Skills**
 - 🐧 Linux Setup and Usage (the penguin approves)

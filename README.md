@@ -37,17 +37,15 @@
 - 🤖 Android Development (Breaking and Fixing ROMs)
 - 🐚 Bash Scripting (When copy-paste is not enough)
 - 🔧 Playing with Magisk and LSPosed (because why not?)
-
-### 📚 **Currently Learning**
 - 📜 Advanced Linux (becoming a terminal wizard)
-- A lot of other things (Real Octopus)
+- A lot of other things (A Real Octopus)
 
 ### 🎮 **Skills**
 - 🐧 Linux Setup and Usage (the penguin approves)
 - 🖥️ Managing Linux Servers (keeping them alive at 3 AM)
 - 🔗 Magisk & LSPosed Modules (like mods for real life)
 - 💻 Android Development (because stock is boring)
-- etc... ( A Real Octopus )
+- etc... ( A Real Octopus again )
 
 ### 🤔 **Ask Me About**
 - 💻 Technical Support (aka have you tried turning it off and on again ?)

@@ -2,7 +2,9 @@
 
 # MRX7014
 
-### Open-source builder from Egypt focused on Linux, Android, Termux, automation, and practical developer tools.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Linux+%7C+Android+%7C+Termux;Open+Source+Builder;Automation+%26+Developer+Tools" alt="Typing animation" />
+
+Open-source builder from Egypt focused on Linux, Android, Termux, automation, and practical developer tools.
 
 [![GitHub](https://img.shields.io/badge/GitHub-mrx7014-181717?style=for-the-badge&logo=github)](https://github.com/mrx7014)
 [![Website](https://img.shields.io/badge/Website-mrx7014.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrx7014.github.io)
@@ -71,6 +73,8 @@ I enjoy turning technical problems into small, usable tools, exploring constrain
 <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrx7014&theme=tokyonight" alt="Top languages" /></td>
 </tr>
 </table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrx7014&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 

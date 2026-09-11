@@ -63,9 +63,14 @@ I enjoy turning technical problems into small, usable tools, exploring constrain
 
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrx7014&theme=transparent)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrx7014&theme=tokyonight" alt="GitHub profile summary" width="100%" />
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrx7014&theme=transparent)
+<table>
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrx7014&theme=tokyonight" alt="GitHub stats" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrx7014&theme=tokyonight" alt="Top languages" /></td>
+</tr>
+</table>
 
 </div>
 

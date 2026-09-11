@@ -43,23 +43,50 @@ I enjoy turning technical problems into small, usable tools, exploring constrain
 | [TGCleaner-BOT](https://github.com/mrx7014/TGCleaner-BOT) | A Telethon-based Telegram bot for removing non-admin members from a selected group. |
 | [SPSS_Android](https://github.com/mrx7014/SPSS_Android) | A Bash script for installing IBM SPSS on Android environments. |
 
-## Technical focus
+## Skills & technologies
 
-<div align="center">
+My toolkit is centered around Linux and Android environments, automation, system customization, and practical open-source utilities.
 
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Termux](https://img.shields.io/badge/Termux-000000?style=flat-square&logo=termux&logoColor=white)
+### Languages & scripting
 
-</div>
+<p>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash%20%2F%20Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash and Shell" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C and C++" /></a>
+</p>
+
+### Platforms & environments
+
+<p>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+  <a href="https://termux.dev/"><img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" alt="Termux" /></a>
+  <a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" alt="Android" /></a>
+  <a href="https://www.kde.org/plasma-desktop/"><img src="https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white" alt="KDE Plasma" /></a>
+  <a href="https://www.archlinux.org/"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" /></a>
+</p>
+
+### Android & system tooling
+
+<p>
+  <a href="https://developer.android.com/studio/command-line"><img src="https://img.shields.io/badge/Android%20Tooling-3DDC84?style=for-the-badge&logo=android&logoColor=black" alt="Android tooling" /></a>
+  <a href="https://github.com/topjohnwu/Magisk"><img src="https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=android&logoColor=white" alt="Magisk" /></a>
+  <a href="https://github.com/LSPosed/LSPosed"><img src="https://img.shields.io/badge/LSPosed-20232A?style=for-the-badge&logo=android&logoColor=white" alt="LSPosed" /></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+### Automation & application tooling
+
+<p>
+  <a href="https://core.telegram.org/bots/api"><img src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram bots" /></a>
+  <a href="https://github.com/LonamiWebs/Telethon"><img src="https://img.shields.io/badge/Telethon-2CA5E0?style=for-the-badge&logo=python&logoColor=white" alt="Telethon" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Extensions"><img src="https://img.shields.io/badge/Browser%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Browser extensions" /></a>
+  <a href="https://www.gnu.org/software/make/"><img src="https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu&logoColor=white" alt="Make" /></a>
+</p>
 
 ## GitHub activity
 

@@ -10,6 +10,14 @@ Open-source builder from Egypt focused on Linux, Android, Termux, automation, an
 [![Website](https://img.shields.io/badge/Website-mrx7014.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrx7014.github.io)
 [![FOSS Egypt](https://img.shields.io/badge/Community-FOSS%20Egypt-2ea44f?style=for-the-badge)](https://github.com/FOSS-Egypt)
 
+<br />
+
+### Contact & social media
+
+<a href="https://github.com/mrx7014"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+<a href="https://mrx7014.github.io"><img src="https://img.shields.io/badge/Visit%20my%20website-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit my website" /></a>
+<a href="https://github.com/FOSS-Egypt"><img src="https://img.shields.io/badge/Connect%20through%20FOSS%20Egypt-2ea44f?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Connect through FOSS Egypt" /></a>
+
 </div>
 
 ## About

@@ -33,6 +33,13 @@ I enjoy turning technical problems into small, usable tools, exploring constrain
 | [arfix](https://github.com/mrx7014/arfix) | A tool for fixing broken Arabic text rendering in terminals. |
 | [QuickDesk](https://github.com/mrx7014/QuickDesk) | A disposable remote desktop environment designed to be launched with a single command. |
 | [WebGetter](https://github.com/mrx7014/WebGetter) | An open-source utility for retrieving website source code. |
+| [SuperMario-Tweaker](https://github.com/mrx7014/SuperMario-Tweaker) | A device-tweaking module aimed at improving performance and stability for gaming and everyday use. |
+| [morphe-patches](https://github.com/mrx7014/morphe-patches) | Java-based patches for the Morphe project. |
+| [SpoofingCollection](https://github.com/mrx7014/SpoofingCollection) | A collection of Magisk and LSPosed modules for customizing Android device fingerprints and build properties. |
+| [WebGetter-Website](https://github.com/mrx7014/WebGetter-Website) | The website interface and companion project for WebGetter. |
+| [NoSleep-Termux](https://github.com/mrx7014/NoSleep-Termux) | A simple Bash script that helps prevent Termux from sleeping in the background. |
+| [TGCleaner-BOT](https://github.com/mrx7014/TGCleaner-BOT) | A Telethon-based Telegram bot for removing non-admin members from a selected group. |
+| [SPSS_Android](https://github.com/mrx7014/SPSS_Android) | A Bash script for installing IBM SPSS on Android environments. |
 
 ## Technical focus
 

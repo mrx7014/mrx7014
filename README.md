@@ -43,19 +43,16 @@ I enjoy turning technical problems into small, usable tools, exploring constrain
 | [TGCleaner-BOT](https://github.com/mrx7014/TGCleaner-BOT) | A Telethon-based Telegram bot for removing non-admin members from a selected group. |
 | [SPSS_Android](https://github.com/mrx7014/SPSS_Android) | A Bash script for installing IBM SPSS on Android environments. |
 
-## Contributions
+## Achievements & stats
 
-I also contribute to projects outside my own profile through bug fixes, Arabic localization, Android development, Linux tooling, and upstream improvements.
+<div align="center">
 
-| Project | Contribution |
-| --- | --- |
-| [Termux packages](https://github.com/termux/termux-packages/pull/30746) | Added the `arfix` package to the Termux package ecosystem. |
-| [FOSS Egypt / WebGetter](https://github.com/FOSS-Egypt/WebGetter/pulls?q=is%3Apr+author%3Amrx7014) | Contributed updates and release improvements across multiple pull requests. |
-| [Game Hub](https://github.com/FeDeveloper95/Game-Hub/pull/14) | Added Arabic language support. |
-| [OneUI Settings Hook](https://github.com/HeheJuice/OneUI-Settings-Hook/pulls?q=is%3Apr+author%3Amrx7014) | Contributed Arabic localization and Android compatibility updates. |
-| [TeamWin Samsung A23 device tree](https://github.com/TeamWin/android_device_samsung_a23/pull/1) | Submitted an SD card fix for the Samsung Galaxy A23 device tree. |
-| [TrebleDroid presets](https://github.com/TrebleDroid/treble_presets/pull/25) | Added a Samsung Galaxy A23 4G preset. |
-| [nomount](https://github.com/maxsteeel/nomount/pull/69) | Contributed an Arabic localization update. |
+<a href="https://github.com/mrx7014?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-48-70A5FD?style=for-the-badge&logo=github&logoColor=white" alt="48 public repositories" /></a>
+<a href="https://github.com/mrx7014?tab=followers"><img src="https://img.shields.io/badge/Followers-150-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="150 followers" /></a>
+<a href="https://github.com/mrx7014?tab=stars"><img src="https://img.shields.io/badge/Repository%20Stars-220-FACC15?style=for-the-badge&logo=github&logoColor=111827" alt="220 repository stars" /></a>
+<a href="https://github.com/mrx7014?tab=repositories&type=fork"><img src="https://img.shields.io/badge/Community%20Forks-42-A78BFA?style=for-the-badge&logo=git&logoColor=white" alt="42 forks" /></a>
+
+</div>
 
 ## Skills & technologies
 

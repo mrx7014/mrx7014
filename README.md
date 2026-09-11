@@ -52,6 +52,10 @@ I enjoy turning technical problems into small, usable tools, exploring constrain
 <a href="https://github.com/mrx7014?tab=stars"><img src="https://img.shields.io/badge/Repository%20Stars-220-FACC15?style=for-the-badge&logo=github&logoColor=111827" alt="220 repository stars" /></a>
 <a href="https://github.com/mrx7014?tab=repositories&type=fork"><img src="https://img.shields.io/badge/Community%20Forks-42-A78BFA?style=for-the-badge&logo=git&logoColor=white" alt="42 forks" /></a>
 
+<br />
+
+<a href="https://github.com/mrx7014?tab=overview"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrx7014&theme=tokyonight&hide_border=true" alt="Daily coding streak" /></a>
+
 </div>
 
 ## Skills & technologies
@@ -84,8 +88,6 @@ I enjoy turning technical problems into small, usable tools, exploring constrain
 <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrx7014&theme=tokyonight" alt="Top languages" /></td>
 </tr>
 </table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrx7014&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 

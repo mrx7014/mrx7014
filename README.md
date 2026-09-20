@@ -27,6 +27,7 @@ I enjoy turning technical problems into small, usable tools, exploring constrain
 
 | Project | Description |
 | --- | --- |
+| [FitTracker](https://github.com/mrx7014/fit-tracker) | Track your fitness with modern features. |
 | [SSH-KaliLinux](https://github.com/mrx7014/SSH-KaliLinux) | A free SSH-based Kali Linux environment for testing tools and working with security utilities. |
 | [TermuxKDE](https://github.com/mrx7014/TermuxKDE) | Run a KDE Plasma desktop experience directly inside Termux. |
 | [YTBlocker-extention](https://github.com/mrx7014/YTBlocker-extention) | A lightweight browser extension for hiding selected YouTube content. |
@@ -37,6 +38,7 @@ I enjoy turning technical problems into small, usable tools, exploring constrain
 | [WebGetter](https://github.com/mrx7014/WebGetter) | An open-source utility for retrieving website source code. |
 | [SuperMario-Tweaker](https://github.com/mrx7014/SuperMario-Tweaker) | A device-tweaking module aimed at improving performance and stability for gaming and everyday use. |
 | [MRXHalawa-Patches](https://github.com/mrx7014/MRXHalawa-Patches) | Java-based patches for the Morphe project. |
+| [mrxhalawa-patches-module](https://github.com/mrx7014/mrxhalawa-patches-module) | Build modules based on `MRXHalawa-Patches`. |
 | [SpoofingCollection](https://github.com/mrx7014/SpoofingCollection) | A collection of Magisk and LSPosed modules for customizing Android device fingerprints and build properties. |
 | [WebGetter-Website](https://github.com/mrx7014/WebGetter-Website) | The website interface and companion project for WebGetter. |
 | [NoSleep-Termux](https://github.com/mrx7014/NoSleep-Termux) | A simple Bash script that helps prevent Termux from sleeping in the background. |

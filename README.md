@@ -31,6 +31,7 @@ I enjoy turning technical problems into small, usable tools, exploring constrain
 | [SSH-KaliLinux](https://github.com/mrx7014/SSH-KaliLinux) | A free SSH-based Kali Linux environment for testing tools and working with security utilities. |
 | [TermuxKDE](https://github.com/mrx7014/TermuxKDE) | Run a KDE Plasma desktop experience directly inside Termux. |
 | [YTBlocker-extention](https://github.com/mrx7014/YTBlocker-extention) | A lightweight browser extension for hiding selected YouTube content. |
+| [GitStar](https://github.com/mrx7014/GitStar) | A forkable, bilingual GitHub starred repositories shelf that syncs every hour. |
 | [OneUFy](https://github.com/mrx7014/OneUFy) | A project focused on extending and customizing the One UI Android experience. |
 | [FontMerger](https://github.com/mrx7014/FontMerger) | A Python utility for merging fonts into a single font. |
 | [arfix](https://github.com/mrx7014/arfix) | A tool for fixing broken Arabic text rendering in terminals. |

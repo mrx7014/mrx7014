@@ -27,21 +27,20 @@ I enjoy turning technical problems into small, usable tools, exploring constrain
 
 | Project | Description |
 | --- | --- |
-| [FitTracker](https://github.com/mrx7014/fit-tracker) | Track your fitness with modern features. |
 | [SSH-KaliLinux](https://github.com/mrx7014/SSH-KaliLinux) | A free SSH-based Kali Linux environment for testing tools and working with security utilities. |
 | [TermuxKDE](https://github.com/mrx7014/TermuxKDE) | Run a KDE Plasma desktop experience directly inside Termux. |
 | [YTBlocker-extension](https://github.com/mrx7014/YTBlocker-extention) | A lightweight browser extention for hiding selected YouTube content. |
 | [GitStar](https://github.com/mrx7014/GitStar) | A forkable, bilingual GitHub starred repositories shelf that syncs every hour. |
-| [OneUFy](https://github.com/mrx7014/OneUFy) | A project focused on extending and customizing the One UI Android experience. |
+| [OneUFy (Archived)](https://github.com/mrx7014/OneUFy) | A project focused on extending and customizing the One UI Android experience. |
 | [Equlizer Extension](https://github.com/mrx7014/Equlizer-Extention) | A lightweight Chrome extension for YouTube echo, reverb, bass boost, and audio controls
 | [FontMerger](https://github.com/mrx7014/FontMerger) | A Python utility for merging fonts into a single font. |
 | [arfix](https://github.com/mrx7014/arfix) | A tool for fixing broken Arabic text rendering in terminals. |
 | [QuickDesk](https://github.com/mrx7014/QuickDesk) | A disposable remote desktop environment designed to be launched with a single command. |
 | [WebGetter](https://github.com/mrx7014/WebGetter) | An open-source utility for retrieving website source code. |
-| [SuperMario-Tweaker](https://github.com/mrx7014/SuperMario-Tweaker) | A device-tweaking module aimed at improving performance and stability for gaming and everyday use. |
+| [SuperMario-Tweaker (Archived)](https://github.com/mrx7014/SuperMario-Tweaker) | A device-tweaking module aimed at improving performance and stability for gaming and everyday use. |
 | [MRXHalawa-Patches](https://github.com/mrx7014/MRXHalawa-Patches) | Java-based patches for the Morphe project. |
 | [mrxhalawa-patches-module](https://github.com/mrx7014/mrxhalawa-patches-module) | Build modules based on `MRXHalawa-Patches`. |
-| [SpoofingCollection](https://github.com/mrx7014/SpoofingCollection) | A collection of Magisk and LSPosed modules for customizing Android device fingerprints and build properties. |
+| [SpoofingCollection (Archived)](https://github.com/mrx7014/SpoofingCollection) | A collection of Magisk and LSPosed modules for customizing Android device fingerprints and build properties. |
 | [WebGetter-Website](https://github.com/mrx7014/WebGetter-Website) | The website interface and companion project for WebGetter. |
 | [NoSleep-Termux](https://github.com/mrx7014/NoSleep-Termux) | A simple Bash script that helps prevent Termux from sleeping in the background. |
 | [TGCleaner-BOT](https://github.com/mrx7014/TGCleaner-BOT) | A Telethon-based Telegram bot for removing non-admin members from a selected group. |

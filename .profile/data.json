@@ -1,0 +1,734 @@
+{
+ "key": "c36d35f5",
+ "stars": 226,
+ "contributions": 377,
+ "repos": 59,
+ "followers": 160,
+ "languages": [
+  [
+   "C",
+   828826089
+  ],
+  [
+   "Assembly",
+   10027035
+  ],
+  [
+   "Java",
+   7095755
+  ],
+  [
+   "Kotlin",
+   2877521
+  ],
+  [
+   "Perl",
+   1234300
+  ],
+  [
+   "Python",
+   964837
+  ],
+  [
+   "TypeScript",
+   729160
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 2,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 11,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 3,
+  "longest": 11
+ },
+ "pins": [
+  {
+   "name": "SSH-KaliLinux",
+   "url": "https://github.com/mrx7014/SSH-KaliLinux",
+   "text": "A free SSH KaliLinux server (Segfault) without limited time,You can use this for test any tool or using kali linux tools or anything else.",
+   "fork": false,
+   "stars": 134,
+   "language": "Python",
+   "topics": [
+    "ethical-hacking",
+    "kali-linux",
+    "server",
+    "ssh"
+   ]
+  },
+  {
+   "name": "WebGetter",
+   "url": "https://github.com/mrx7014/WebGetter",
+   "text": "A free open source tool that allow you to get any website source code in a few minutes.",
+   "fork": true,
+   "stars": 5,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "TermuxKDE",
+   "url": "https://github.com/mrx7014/TermuxKDE",
+   "text": "KDE Plasma Desktop — right inside your Termux.",
+   "fork": false,
+   "stars": 12,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "arfix",
+   "url": "https://github.com/mrx7014/arfix",
+   "text": "Fix broken Arabic text rendering in the terminal",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "YTBlocker-extention",
+   "url": "https://github.com/mrx7014/YTBlocker-extention",
+   "text": "A lightweight browser extension for hiding videos, comments, search results, channel cards, playlists, and other YouTube content from channels you choose to block.",
+   "fork": false,
+   "stars": 2,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "MRXHalawa-Patches",
+   "url": "https://github.com/mrx7014/MRXHalawa-Patches",
+   "text": "MRX Halawa Patches",
+   "fork": false,
+   "stars": 2,
+   "language": "Java",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "SSH-KaliLinux",
+   "url": "https://github.com/mrx7014/SSH-KaliLinux",
+   "text": "A free SSH KaliLinux server (Segfault) without limited time,You can use this for test any tool or using kali linux tools or anything else.",
+   "fork": false,
+   "stars": 134,
+   "language": "Python",
+   "topics": [
+    "ethical-hacking",
+    "kali-linux",
+    "server",
+    "ssh"
+   ]
+  },
+  {
+   "name": "Ubuntu_on_Segfault",
+   "url": "https://github.com/mrx7014/Ubuntu_on_Segfault",
+   "text": "A guide to install ubuntu on segfault server // \"Check this repo if you don't know it\" https://github.com/mrx7014/SSH-KaliLinux",
+   "fork": false,
+   "stars": 14,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "TermuxKDE",
+   "url": "https://github.com/mrx7014/TermuxKDE",
+   "text": "KDE Plasma Desktop — right inside your Termux.",
+   "fork": false,
+   "stars": 12,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "FontMerger",
+   "url": "https://github.com/mrx7014/FontMerger",
+   "text": "Merge fonts into one font",
+   "fork": false,
+   "stars": 5,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Verifone_Vx520_Firmware",
+   "url": "https://github.com/mrx7014/Verifone_Vx520_Firmware",
+   "text": "Verifone Vx520 Payment Machine Firmware",
+   "fork": false,
+   "stars": 5,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "WebGetter",
+   "url": "https://github.com/mrx7014/WebGetter",
+   "text": "A free open source tool that allow you to get any website source code in a few minutes.",
+   "fork": true,
+   "stars": 5,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "android_ndk_sdk_installer",
+   "url": "https://github.com/mrx7014/android_ndk_sdk_installer",
+   "text": "Script to install Android NDK & SDK in Linux",
+   "fork": false,
+   "stars": 5,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "NoSleep-Termux",
+   "url": "https://github.com/mrx7014/NoSleep-Termux",
+   "text": "A simple Bash script to prevent Termux from sleeping in the background (due to Android UI limitations).",
+   "fork": false,
+   "stars": 4,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "OneUFy",
+   "url": "https://github.com/mrx7014/OneUFy",
+   "text": "Take OneUI to another level",
+   "fork": false,
+   "stars": 3,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "SuperMario-Tweaker",
+   "url": "https://github.com/mrx7014/SuperMario-Tweaker",
+   "text": "A tweaker module that can improve any device performance and stability (Gaming, Daily Useage, etc....)",
+   "fork": false,
+   "stars": 3,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "MY_Kali-Nethunter-Fixes",
+   "url": "https://github.com/mrx7014/MY_Kali-Nethunter-Fixes",
+   "text": "A collection of fixes and packages for Kali NetHunter, including APT repairs and a KernelSU-Next/APatch-compatible NetHunter installer patch.",
+   "fork": false,
+   "stars": 3,
+   "language": "Shell",
+   "topics": [
+    "android-root",
+    "kernelsu",
+    "nethunter",
+    "apt-fixes"
+   ]
+  },
+  {
+   "name": "Servers-Setup-Script",
+   "url": "https://github.com/mrx7014/Servers-Setup-Script",
+   "text": "",
+   "fork": false,
+   "stars": 3,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "SpoofingCollection",
+   "url": "https://github.com/mrx7014/SpoofingCollection",
+   "text": "A collection of Magisk root modules and LSPosed (Xposed) modules for spoofing Android device fingerprints (manufacturer, model, build props, etc.) to appear as different devices.",
+   "fork": false,
+   "stars": 3,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "GoFile-Uploder-Website",
+   "url": "https://github.com/mrx7014/GoFile-Uploder-Website",
+   "text": "A clean, fast web interface for uploading files to GoFile and getting a shareable link in seconds.",
+   "fork": false,
+   "stars": 2,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "mrxhalawa-patches-module",
+   "url": "https://github.com/mrx7014/mrxhalawa-patches-module",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "Iris-AI_TERMUX-NATIVE",
+   "url": "https://github.com/mrx7014/Iris-AI_TERMUX-NATIVE",
+   "text": "a fine tuning for a Iris AI (an open weight model)",
+   "fork": true,
+   "stars": 2,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "YTBlocker-extention",
+   "url": "https://github.com/mrx7014/YTBlocker-extention",
+   "text": "A lightweight browser extension for hiding videos, comments, search results, channel cards, playlists, and other YouTube content from channels you choose to block.",
+   "fork": false,
+   "stars": 2,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "nomount",
+   "url": "https://github.com/mrx7014/nomount",
+   "text": "NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.",
+   "fork": true,
+   "stars": 2,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "estock-pharmacy-mobile",
+   "url": "https://github.com/mrx7014/estock-pharmacy-mobile",
+   "text": "A mobile pharmacy inventory and operations app built from the e-Stock data dictionary and backup dataset, with products, stock, sales, purchasing, and branch-aware workflows. · Built with Manus",
+   "fork": false,
+   "stars": 2,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "MRXHalawa-Patches",
+   "url": "https://github.com/mrx7014/MRXHalawa-Patches",
+   "text": "MRX Halawa Patches",
+   "fork": false,
+   "stars": 2,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "OneUISpoofer",
+   "url": "https://github.com/mrx7014/OneUISpoofer",
+   "text": "Spoof your OneUI version",
+   "fork": false,
+   "stars": 2,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "arfix",
+   "url": "https://github.com/mrx7014/arfix",
+   "text": "Fix broken Arabic text rendering in the terminal",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "DOOMeKERNEL",
+   "url": "https://github.com/mrx7014/DOOMeKERNEL",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "android_device_samsung_a23-twrp",
+   "url": "https://github.com/mrx7014/android_device_samsung_a23-twrp",
+   "text": "Twrp Tree For Samsung A23 4G (SM-A235)",
+   "fork": false,
+   "stars": 2,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "fart-it",
+   "url": "https://github.com/mrx7014/fart-it",
+   "text": "Find And Replace Text command line utility. New & improved version of the well-known grep command, with advanced features such as: case-adaption of the replace string; find (& replace) in filenames, auto CVS edit.",
+   "fork": true,
+   "stars": 2,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "SPSS_Android",
+   "url": "https://github.com/mrx7014/SPSS_Android",
+   "text": "A bash script to install IBM-SPSS on Android.",
+   "fork": false,
+   "stars": 2,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "mrx7014.github.io",
+   "url": "https://github.com/mrx7014/mrx7014.github.io",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "AppsPorter",
+   "url": "https://github.com/mrx7014/AppsPorter",
+   "text": "Tool for porting OEM specific apps on every devices (Manual + AI Agents)",
+   "fork": true,
+   "stars": 1,
+   "language": "Smali",
+   "topics": []
+  },
+  {
+   "name": "DSU-Sideloader-Extended",
+   "url": "https://github.com/mrx7014/DSU-Sideloader-Extended",
+   "text": "A simple app made to help users easily install GSIs via DSU's Android feature.",
+   "fork": true,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "yt-dlp-android",
+   "url": "https://github.com/mrx7014/yt-dlp-android",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "anland",
+   "url": "https://github.com/mrx7014/anland",
+   "text": "Protocol For Wayland run on android",
+   "fork": true,
+   "stars": 1,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "anti-insult-bot",
+   "url": "https://github.com/mrx7014/anti-insult-bot",
+   "text": "a Telegram bot to ban insults",
+   "fork": true,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "overlay-translator",
+   "url": "https://github.com/mrx7014/overlay-translator",
+   "text": "无需 ROOT 的开源 Android 屏幕实时翻译工具，适合游戏、视觉小说和漫画。支持端侧与云端 OCR、离线 LLM、多种翻译服务和文字朗读（TTS），译文可直接显示在画面上。Open-source no-root Android real-time screen translator for games, visual novels, and manga. Supports on-device and cloud OCR, offline LLMs, multiple translation services, on-screen translations, and text-to-speech (TTS).",
+   "fork": true,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "GofileUploader-TGBot",
+   "url": "https://github.com/mrx7014/GofileUploader-TGBot",
+   "text": "A single-file Telegram bot that uploads whatever you send it to [GoFile](https://gofile.io) and replies with the download link. Built with [Telethon](https://github.com/LonamiWebs/Telethon) and the Python standard library, so it runs happily on a phone (Termux) or a small server.",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "vendor_hardware_overlay",
+   "url": "https://github.com/mrx7014/vendor_hardware_overlay",
+   "text": "This includes hardware-specific overlays for Treble ROM",
+   "fork": true,
+   "stars": 1,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "specter",
+   "url": "https://github.com/mrx7014/specter",
+   "text": "Unified Play Integrity and root hiding stack for Android",
+   "fork": true,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Droidspaces-rootfs-Desktop-builder",
+   "url": "https://github.com/mrx7014/Droidspaces-rootfs-Desktop-builder",
+   "text": "为 Droidspaces 用户打造带硬件加速的桌面环境",
+   "fork": true,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "SamFWDumper",
+   "url": "https://github.com/mrx7014/SamFWDumper",
+   "text": "I'm lazy to push anything, maybe later",
+   "fork": true,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Dark-Web-Full-Guide",
+   "url": "https://github.com/mrx7014/Dark-Web-Full-Guide",
+   "text": "Your Guide to browse Onine sites",
+   "fork": true,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Game-Hub",
+   "url": "https://github.com/mrx7014/Game-Hub",
+   "text": "A simple launcher with material 3 expressive ui for all your games.",
+   "fork": true,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "QuickDesk",
+   "url": "https://github.com/mrx7014/QuickDesk",
+   "text": "A disposable remote desktop, one command away.",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "super",
+   "url": "https://github.com/mrx7014/super",
+   "text": "",
+   "fork": true,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "WebGetter-Website",
+   "url": "https://github.com/mrx7014/WebGetter-Website",
+   "text": "",
+   "fork": true,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "termux-packages",
+   "url": "https://github.com/mrx7014/termux-packages",
+   "text": "A package build system for Termux.",
+   "fork": true,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "testlab",
+   "url": "https://github.com/mrx7014/testlab",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "acrh",
+   "url": "https://github.com/mrx7014/acrh",
+   "text": "The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.",
+   "fork": true,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "mrx7014",
+   "url": "https://github.com/mrx7014/mrx7014",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "FreeServer-JupyterNotebook",
+   "url": "https://github.com/mrx7014/FreeServer-JupyterNotebook",
+   "text": "A free Linux server with high End specifications running throw Jupyter Notebooks Lab, Almond (A Scala kernel for Jupyter) and Binder",
+   "fork": false,
+   "stars": 1,
+   "language": "Jupyter Notebook",
+   "topics": []
+  },
+  {
+   "name": "Crave-SuperUser",
+   "url": "https://github.com/mrx7014/Crave-SuperUser",
+   "text": "Ubuntu in qmeu without any limits",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "Crave-Fixer",
+   "url": "https://github.com/mrx7014/Crave-Fixer",
+   "text": "This repo will contain some of solutions to make Crave server better when using it from terminal (crave devspace)",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "TGCleaner-BOT",
+   "url": "https://github.com/mrx7014/TGCleaner-BOT",
+   "text": "A Telegram bot that automatically removes non-admin members from a specified group. Built with the Telethon library, it simplifies group management and helps maintain order in large groups.",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "OctopusVM-ROMs",
+   "url": "https://github.com/mrx7014/OctopusVM-ROMs",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "mkbsd",
+   "url": "https://github.com/mrx7014/mkbsd",
+   "text": "Download all the wallpapers in MKBHD's \"Panels\" app",
+   "fork": true,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "android_packages_apps_AxPcMode",
+   "url": "https://github.com/mrx7014/android_packages_apps_AxPcMode",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Samsung_KernelSU_SUSFS",
+   "url": "https://github.com/mrx7014/Samsung_KernelSU_SUSFS",
+   "text": "Samsung Kernels with KernelSU & SUSFS",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Equlizer-Extention",
+   "url": "https://github.com/mrx7014/Equlizer-Extention",
+   "text": "A lightweight Chrome extension for YouTube echo, reverb, bass boost, and audio controls",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "GitStar",
+   "url": "https://github.com/mrx7014/GitStar",
+   "text": "A forkable, bilingual GitHub starred repositories shelf that syncs every hour.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Re-Malwack-PERSONAL",
+   "url": "https://github.com/mrx7014/Re-Malwack-PERSONAL",
+   "text": "A fully-fledged adblock root/no-root suite. Contains all your needs ✨",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "Flow",
+   "url": "https://github.com/mrx7014/Flow",
+   "text": "A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  }
+ ]
+}

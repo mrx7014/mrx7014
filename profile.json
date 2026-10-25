@@ -1,0 +1,193 @@
+{
+  "version": 1,
+  "login": "mrx7014",
+  "seed": "#4285F4",
+  "seedFromAvatar": true,
+  "scheme": "monochrome",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "FAHHHHHHHHHHHH",
+    "name": "",
+    "subtitle": "Open-source builder from Egypt, Focused on Linux, Android, and AI",
+    "typing": true,
+    "avatarShape": "gem",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Egypt"
+      },
+      {
+        "icon": "code",
+        "label": "NULL"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly Script Kiddie"
+      },
+      {
+        "icon": "terminal",
+        "label": "Lives in terminal"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          },
+          {
+            "icon": "brand:android",
+            "label": "Android Development (ROOT)"
+          },
+          {
+            "icon": "brand:gnubash",
+            "label": "Bash"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:2fas",
+            "label": "2FA"
+          },
+          {
+            "icon": "brand:gnometerminal",
+            "label": "Termux"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:vercel",
+            "label": "Vercel"
+          },
+          {
+            "icon": "brand:adguard",
+            "label": "AdGuard"
+          },
+          {
+            "icon": "brand:1dot1dot1dot1",
+            "label": "1.1.1.1"
+          },
+          {
+            "icon": "brand:github",
+            "label": ""
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "SSH-KaliLinux",
+      "WebGetter",
+      "TermuxKDE",
+      "arfix",
+      "YTBlocker-extention",
+      "MRXHalawa-Patches"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:reddit",
+        "url": "https://www.reddit.com/user/mrx70140x/"
+      },
+      {
+        "icon": "brand:instagram",
+        "url": "https://www.instagram.com/kareemthegreatt"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://mrx7014.github.io",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}

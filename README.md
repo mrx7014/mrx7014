@@ -1,115 +1,27 @@
 <div align="center">
 
-# MRX7014
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="FAHHHHHHHHHHHH mrx7014"></picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Linux+%7C+Android+%7C+Termux;Open+Source+Builder;Automation+%26+Developer+Tools" alt="Typing animation" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="32.840%" alt=""></picture><a href="https://www.reddit.com/user/mrx70140x/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="15.480%" alt="reddit"></picture></a><a href="https://www.instagram.com/kareemthegreatt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="18.836%" alt="instagram"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="32.840%" alt=""></picture>
 
-Open-source builder from Egypt focused on Linux, Android, Termux, automation, and practical developer tools.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-[![GitHub](https://img.shields.io/badge/GitHub-mrx7014-181717?style=for-the-badge&logo=github)](https://github.com/mrx7014)
-[![Website](https://img.shields.io/badge/Website-mrx7014.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrx7014.github.io)
-[![FOSS Egypt](https://img.shields.io/badge/Community-FOSS%20Egypt-2ea44f?style=for-the-badge)](https://github.com/FOSS-Egypt)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-</div>
+<a href="https://github.com/mrx7014/SSH-KaliLinux"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ssh-kalilinux-dark.svg"><img src="assets/project-ssh-kalilinux-light.svg" width="49%" alt="SSH-KaliLinux"></picture></a>&nbsp;<a href="https://github.com/mrx7014/WebGetter"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-webgetter-dark.svg"><img src="assets/project-webgetter-light.svg" width="49%" alt="WebGetter"></picture></a>
 
-## About
+<a href="https://github.com/mrx7014/TermuxKDE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-termuxkde-dark.svg"><img src="assets/project-termuxkde-light.svg" width="49%" alt="TermuxKDE"></picture></a>&nbsp;<a href="https://github.com/mrx7014/arfix"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-arfix-dark.svg"><img src="assets/project-arfix-light.svg" width="49%" alt="arfix"></picture></a>
 
-I build and experiment with open-source software across Linux and Android environments. My public work ranges from Termux and desktop setups to Android tooling, browser extensions, command-line utilities, automation scripts, and practical mobile applications.
+<a href="https://github.com/mrx7014/YTBlocker-extention"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ytblocker-extention-dark.svg"><img src="assets/project-ytblocker-extention-light.svg" width="49%" alt="YTBlocker-extention"></picture></a>&nbsp;<a href="https://github.com/mrx7014/MRXHalawa-Patches"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-mrxhalawa-patches-dark.svg"><img src="assets/project-mrxhalawa-patches-light.svg" width="49%" alt="MRXHalawa-Patches"></picture></a>
 
-I enjoy turning technical problems into small, usable tools, exploring constrained computing environments, and sharing solutions that help developers and power users work more effectively.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-- Based in **Egypt**
-- Member of **FOSS Egypt**
-- Maintainer and contributor across **48 public repositories**
-- Interested in **Linux tooling, Android customization, Termux, automation, and open source**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-## Featured projects
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-| Project | Description |
-| --- | --- |
-| [SSH-KaliLinux](https://github.com/mrx7014/SSH-KaliLinux) | A free SSH-based Kali Linux environment for testing tools and working with security utilities. |
-| [TermuxKDE](https://github.com/mrx7014/TermuxKDE) | Run a KDE Plasma desktop experience directly inside Termux. |
-| [YTBlocker-extension](https://github.com/mrx7014/YTBlocker-extention) | A lightweight browser extention for hiding selected YouTube content. |
-| [GitStar](https://github.com/mrx7014/GitStar) | A forkable, bilingual GitHub starred repositories shelf that syncs every hour. |
-| [OneUFy (Archived)](https://github.com/mrx7014/OneUFy) | A project focused on extending and customizing the One UI Android experience. |
-| [Equlizer Extension](https://github.com/mrx7014/Equlizer-Extention) | A lightweight Chrome extension for YouTube echo, reverb, bass boost, and audio controls
-| [FontMerger](https://github.com/mrx7014/FontMerger) | A Python utility for merging fonts into a single font. |
-| [arfix](https://github.com/mrx7014/arfix) | A tool for fixing broken Arabic text rendering in terminals. |
-| [QuickDesk](https://github.com/mrx7014/QuickDesk) | A disposable remote desktop environment designed to be launched with a single command. |
-| [WebGetter](https://github.com/mrx7014/WebGetter) | An open-source utility for retrieving website source code. |
-| [SuperMario-Tweaker (Archived)](https://github.com/mrx7014/SuperMario-Tweaker) | A device-tweaking module aimed at improving performance and stability for gaming and everyday use. |
-| [MRXHalawa-Patches](https://github.com/mrx7014/MRXHalawa-Patches) | Java-based patches for the Morphe project. |
-| [mrxhalawa-patches-module](https://github.com/mrx7014/mrxhalawa-patches-module) | Build modules based on `MRXHalawa-Patches`. |
-| [SpoofingCollection (Archived)](https://github.com/mrx7014/SpoofingCollection) | A collection of Magisk and LSPosed modules for customizing Android device fingerprints and build properties. |
-| [WebGetter-Website](https://github.com/mrx7014/WebGetter-Website) | The website interface and companion project for WebGetter. |
-| [NoSleep-Termux](https://github.com/mrx7014/NoSleep-Termux) | A simple Bash script that helps prevent Termux from sleeping in the background. |
-| [TGCleaner-BOT](https://github.com/mrx7014/TGCleaner-BOT) | A Telethon-based Telegram bot for removing non-admin members from a selected group. |
-| [SPSS_Android](https://github.com/mrx7014/SPSS_Android) | A Bash script for installing IBM SPSS on Android environments. |
+<a href="https://mrx7014.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/mrx7014?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
 
-## Achievements & stats
-
-<div align="center">
-
-<a href="https://github.com/mrx7014?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-48-70A5FD?style=for-the-badge&logo=github&logoColor=white" alt="48 public repositories" /></a>
-<a href="https://github.com/mrx7014?tab=followers"><img src="https://img.shields.io/badge/Followers-150-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="150 followers" /></a>
-<a href="https://github.com/mrx7014?tab=stars"><img src="https://img.shields.io/badge/Repository%20Stars-220-FACC15?style=for-the-badge&logo=github&logoColor=111827" alt="220 repository stars" /></a>
-<a href="https://github.com/mrx7014?tab=repositories&type=fork"><img src="https://img.shields.io/badge/Community%20Forks-42-A78BFA?style=for-the-badge&logo=git&logoColor=white" alt="42 forks" /></a>
-
-<br />
-
-<a href="https://github.com/mrx7014?tab=overview"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrx7014&theme=tokyonight&hide_border=true" alt="Daily coding streak" /></a>
-
-</div>
-
-## Skills & technologies
-
-<div align="center">
-
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Termux](https://img.shields.io/badge/Termux-000000?style=flat-square&logo=termux&logoColor=white)
-
-</div>
-
-## GitHub activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrx7014&theme=tokyonight" alt="GitHub profile summary" width="100%" />
-
-<table>
-<tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrx7014&theme=tokyonight" alt="GitHub stats" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrx7014&theme=tokyonight" alt="Top languages" /></td>
-</tr>
-</table>
-
-</div>
-
-## Find me online
-
-- **GitHub:** [github.com/mrx7014](https://github.com/mrx7014)
-- **Website:** [mrx7014.github.io](https://mrx7014.github.io)
-- **Community:** [FOSS Egypt](https://github.com/FOSS-Egypt)
-
-<div align="center">
-
-Thanks for visiting. Feel free to explore the repositories and open an issue or discussion when you find something useful.
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=mrx7014&style=flat-square&color=blue)
+<a href="https://metawka.github.io/expressive-profile/?from=mrx7014"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
 </div>

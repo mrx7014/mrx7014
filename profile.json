@@ -118,10 +118,6 @@
           {
             "icon": "brand:1dot1dot1dot1",
             "label": "1.1.1.1"
-          },
-          {
-            "icon": "brand:github",
-            "label": ""
           }
         ]
       }

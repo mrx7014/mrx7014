@@ -1,9 +1,9 @@
 {
- "key": "ef62235b",
- "stars": 226,
- "contributions": 381,
- "repos": 59,
- "followers": 160,
+ "key": "b38fb0a0",
+ "stars": 228,
+ "contributions": 380,
+ "repos": 58,
+ "followers": 161,
  "languages": [
   [
    "C",
@@ -31,7 +31,7 @@
   ],
   [
    "TypeScript",
-   729160
+   729074
   ]
  ],
  "days": [
@@ -94,17 +94,17 @@
     "today": false
    },
    {
-    "c": 6,
+    "c": 11,
     "day": 22,
     "today": false
    },
    {
-    "c": 1,
+    "c": 5,
     "day": 23,
     "today": false
    },
    {
-    "c": 5,
+    "c": 7,
     "day": 24,
     "today": false
    }
@@ -113,18 +113,30 @@
    {
     "c": 4,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
     "today": true
    },
-   null,
-   null,
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 4,
+  "current": 0,
   "longest": 11
  },
  "pins": [
@@ -133,7 +145,7 @@
    "url": "https://github.com/mrx7014/SSH-KaliLinux",
    "text": "A free SSH KaliLinux server (Segfault) without limited time,You can use this for test any tool or using kali linux tools or anything else.",
    "fork": false,
-   "stars": 134,
+   "stars": 135,
    "language": "Python",
    "topics": [
     "ethical-hacking",
@@ -194,7 +206,7 @@
    "url": "https://github.com/mrx7014/SSH-KaliLinux",
    "text": "A free SSH KaliLinux server (Segfault) without limited time,You can use this for test any tool or using kali linux tools or anything else.",
    "fork": false,
-   "stars": 134,
+   "stars": 135,
    "language": "Python",
    "topics": [
     "ethical-hacking",
@@ -258,21 +270,21 @@
    "topics": []
   },
   {
+   "name": "OneUFy",
+   "url": "https://github.com/mrx7014/OneUFy",
+   "text": "Take OneUI to another level",
+   "fork": false,
+   "stars": 4,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
    "name": "NoSleep-Termux",
    "url": "https://github.com/mrx7014/NoSleep-Termux",
    "text": "A simple Bash script to prevent Termux from sleeping in the background (due to Android UI limitations).",
    "fork": false,
    "stars": 4,
    "language": "Shell",
-   "topics": []
-  },
-  {
-   "name": "OneUFy",
-   "url": "https://github.com/mrx7014/OneUFy",
-   "text": "Take OneUI to another level",
-   "fork": false,
-   "stars": 3,
-   "language": "TypeScript",
    "topics": []
   },
   {
@@ -698,15 +710,6 @@
    "name": "Equlizer-Extention",
    "url": "https://github.com/mrx7014/Equlizer-Extention",
    "text": "A lightweight Chrome extension for YouTube echo, reverb, bass boost, and audio controls",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "GitStar",
-   "url": "https://github.com/mrx7014/GitStar",
-   "text": "A forkable, bilingual GitHub starred repositories shelf that syncs every hour.",
    "fork": false,
    "stars": 0,
    "language": "JavaScript",

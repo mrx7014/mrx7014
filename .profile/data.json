@@ -1,13 +1,13 @@
 {
- "key": "418737fd",
- "stars": 228,
- "contributions": 381,
- "repos": 58,
- "followers": 161,
+ "key": "b4517957",
+ "stars": 224,
+ "contributions": 368,
+ "repos": 50,
+ "followers": 160,
  "languages": [
   [
    "C",
-   828826089
+   828670593
   ],
   [
    "Assembly",
@@ -52,7 +52,7 @@
     "today": false
    },
    {
-    "c": 11,
+    "c": 6,
     "day": 14,
     "today": false
    },
@@ -99,7 +99,7 @@
     "today": false
    },
    {
-    "c": 5,
+    "c": 4,
     "day": 23,
     "today": false
    },
@@ -128,15 +128,27 @@
    {
     "c": 1,
     "day": 28,
-    "today": true
+    "today": false
    },
-   null,
-   null,
-   null
+   {
+    "c": 3,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": true
+   }
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 11
  },
  "pins": [
@@ -446,15 +458,6 @@
    "topics": []
   },
   {
-   "name": "mrx7014.github.io",
-   "url": "https://github.com/mrx7014/mrx7014.github.io",
-   "text": "",
-   "fork": false,
-   "stars": 2,
-   "language": "HTML",
-   "topics": []
-  },
-  {
    "name": "AppsPorter",
    "url": "https://github.com/mrx7014/AppsPorter",
    "text": "Tool for porting OEM specific apps on every devices (Manual + AI Agents)",
@@ -479,15 +482,6 @@
    "fork": false,
    "stars": 1,
    "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "anland",
-   "url": "https://github.com/mrx7014/anland",
-   "text": "Protocol For Wayland run on android",
-   "fork": true,
-   "stars": 1,
-   "language": "C",
    "topics": []
   },
   {
@@ -581,48 +575,12 @@
    "topics": []
   },
   {
-   "name": "super",
-   "url": "https://github.com/mrx7014/super",
-   "text": "",
-   "fork": true,
-   "stars": 1,
-   "language": "Shell",
-   "topics": []
-  },
-  {
    "name": "WebGetter-Website",
    "url": "https://github.com/mrx7014/WebGetter-Website",
    "text": "",
    "fork": true,
    "stars": 1,
    "language": "HTML",
-   "topics": []
-  },
-  {
-   "name": "termux-packages",
-   "url": "https://github.com/mrx7014/termux-packages",
-   "text": "A package build system for Termux.",
-   "fork": true,
-   "stars": 1,
-   "language": "Shell",
-   "topics": []
-  },
-  {
-   "name": "testlab",
-   "url": "https://github.com/mrx7014/testlab",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "acrh",
-   "url": "https://github.com/mrx7014/acrh",
-   "text": "The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.",
-   "fork": true,
-   "stars": 1,
-   "language": "Shell",
    "topics": []
   },
   {
@@ -671,15 +629,6 @@
    "topics": []
   },
   {
-   "name": "OctopusVM-ROMs",
-   "url": "https://github.com/mrx7014/OctopusVM-ROMs",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": null,
-   "topics": []
-  },
-  {
    "name": "mkbsd",
    "url": "https://github.com/mrx7014/mkbsd",
    "text": "Download all the wallpapers in MKBHD's \"Panels\" app",
@@ -689,12 +638,12 @@
    "topics": []
   },
   {
-   "name": "android_packages_apps_AxPcMode",
-   "url": "https://github.com/mrx7014/android_packages_apps_AxPcMode",
+   "name": "freeroot",
+   "url": "https://github.com/mrx7014/freeroot",
    "text": "",
    "fork": true,
    "stars": 0,
-   "language": "Kotlin",
+   "language": "Shell",
    "topics": []
   },
   {
@@ -713,15 +662,6 @@
    "fork": false,
    "stars": 0,
    "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "Re-Malwack-PERSONAL",
-   "url": "https://github.com/mrx7014/Re-Malwack-PERSONAL",
-   "text": "A fully-fledged adblock root/no-root suite. Contains all your needs ✨",
-   "fork": false,
-   "stars": 0,
-   "language": "C",
    "topics": []
   },
   {

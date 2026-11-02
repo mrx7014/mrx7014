@@ -1,5 +1,5 @@
 {
- "key": "b4517957",
+ "key": "307a722d",
  "stars": 224,
  "contributions": 368,
  "repos": 50,
@@ -35,43 +35,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 2,
-    "day": 11,
-    "today": false
-   },
-   {
-    "c": 4,
-    "day": 12,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 13,
-    "today": false
-   },
-   {
-    "c": 6,
-    "day": 14,
-    "today": false
-   },
-   {
-    "c": 5,
-    "day": 15,
-    "today": false
-   },
-   {
-    "c": 9,
-    "day": 16,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 17,
-    "today": false
-   }
-  ],
   [
    {
     "c": 1,
@@ -143,8 +106,25 @@
    {
     "c": 0,
     "day": 31,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
@@ -350,6 +330,15 @@
    "topics": []
   },
   {
+   "name": "anti-insult-bot",
+   "url": "https://github.com/mrx7014/anti-insult-bot",
+   "text": "a Telegram bot to ban insults",
+   "fork": true,
+   "stars": 2,
+   "language": "Python",
+   "topics": []
+  },
+  {
    "name": "mrxhalawa-patches-module",
    "url": "https://github.com/mrx7014/mrxhalawa-patches-module",
    "text": "",
@@ -482,15 +471,6 @@
    "fork": false,
    "stars": 1,
    "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "anti-insult-bot",
-   "url": "https://github.com/mrx7014/anti-insult-bot",
-   "text": "a Telegram bot to ban insults",
-   "fork": true,
-   "stars": 1,
-   "language": "Python",
    "topics": []
   },
   {

@@ -1,77 +1,40 @@
 {
- "key": "307a722d",
- "stars": 224,
- "contributions": 368,
- "repos": 50,
- "followers": 160,
+ "key": "c7fc7dd2",
+ "stars": 210,
+ "contributions": 363,
+ "repos": 38,
+ "followers": 161,
  "languages": [
   [
-   "C",
-   828670593
-  ],
-  [
-   "Assembly",
-   10027035
-  ],
-  [
    "Java",
-   7095755
+   7076570
   ],
   [
    "Kotlin",
    2877521
   ],
   [
-   "Perl",
-   1234300
-  ],
-  [
-   "Python",
-   964837
+   "Jupyter Notebook",
+   648734
   ],
   [
    "TypeScript",
-   729074
+   626257
+  ],
+  [
+   "JavaScript",
+   131998
+  ],
+  [
+   "Python",
+   71107
+  ],
+  [
+   "CSS",
+   53836
   ]
  ],
  "days": [
-  [
-   {
-    "c": 1,
-    "day": 18,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 19,
-    "today": false
-   },
-   {
-    "c": 2,
-    "day": 20,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 21,
-    "today": false
-   },
-   {
-    "c": 11,
-    "day": 22,
-    "today": false
-   },
-   {
-    "c": 4,
-    "day": 23,
-    "today": false
-   },
-   {
-    "c": 7,
-    "day": 24,
-    "today": false
-   }
-  ],
   [
    {
     "c": 4,
@@ -94,7 +57,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 2,
     "day": 29,
     "today": false
    },
@@ -118,17 +81,62 @@
    {
     "c": 0,
     "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 11,
     "today": true
    },
-   null,
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 11
  },
  "pins": [
@@ -137,7 +145,7 @@
    "url": "https://github.com/mrx7014/SSH-KaliLinux",
    "text": "A free SSH KaliLinux server (Segfault) without limited time,You can use this for test any tool or using kali linux tools or anything else.",
    "fork": false,
-   "stars": 135,
+   "stars": 136,
    "language": "Python",
    "topics": [
     "ethical-hacking",
@@ -198,7 +206,7 @@
    "url": "https://github.com/mrx7014/SSH-KaliLinux",
    "text": "A free SSH KaliLinux server (Segfault) without limited time,You can use this for test any tool or using kali linux tools or anything else.",
    "fork": false,
-   "stars": 135,
+   "stars": 136,
    "language": "Python",
    "topics": [
     "ethical-hacking",
@@ -262,15 +270,6 @@
    "topics": []
   },
   {
-   "name": "OneUFy",
-   "url": "https://github.com/mrx7014/OneUFy",
-   "text": "Take OneUI to another level",
-   "fork": false,
-   "stars": 4,
-   "language": "TypeScript",
-   "topics": []
-  },
-  {
    "name": "NoSleep-Termux",
    "url": "https://github.com/mrx7014/NoSleep-Termux",
    "text": "A simple Bash script to prevent Termux from sleeping in the background (due to Android UI limitations).",
@@ -280,20 +279,11 @@
    "topics": []
   },
   {
-   "name": "SuperMario-Tweaker",
-   "url": "https://github.com/mrx7014/SuperMario-Tweaker",
-   "text": "A tweaker module that can improve any device performance and stability (Gaming, Daily Useage, etc....)",
-   "fork": false,
-   "stars": 3,
-   "language": "CSS",
-   "topics": []
-  },
-  {
    "name": "MY_Kali-Nethunter-Fixes",
    "url": "https://github.com/mrx7014/MY_Kali-Nethunter-Fixes",
    "text": "A collection of fixes and packages for Kali NetHunter, including APT repairs and a KernelSU-Next/APatch-compatible NetHunter installer patch.",
    "fork": false,
-   "stars": 3,
+   "stars": 4,
    "language": "Shell",
    "topics": [
     "android-root",
@@ -312,30 +302,12 @@
    "topics": []
   },
   {
-   "name": "SpoofingCollection",
-   "url": "https://github.com/mrx7014/SpoofingCollection",
-   "text": "A collection of Magisk root modules and LSPosed (Xposed) modules for spoofing Android device fingerprints (manufacturer, model, build props, etc.) to appear as different devices.",
-   "fork": false,
-   "stars": 3,
-   "language": "Java",
-   "topics": []
-  },
-  {
    "name": "GoFile-Uploder-Website",
    "url": "https://github.com/mrx7014/GoFile-Uploder-Website",
    "text": "A clean, fast web interface for uploading files to GoFile and getting a shareable link in seconds.",
    "fork": false,
    "stars": 2,
    "language": "TypeScript",
-   "topics": []
-  },
-  {
-   "name": "anti-insult-bot",
-   "url": "https://github.com/mrx7014/anti-insult-bot",
-   "text": "a Telegram bot to ban insults",
-   "fork": true,
-   "stars": 2,
-   "language": "Python",
    "topics": []
   },
   {
@@ -393,39 +365,12 @@
    "topics": []
   },
   {
-   "name": "OneUISpoofer",
-   "url": "https://github.com/mrx7014/OneUISpoofer",
-   "text": "Spoof your OneUI version",
-   "fork": false,
-   "stars": 2,
-   "language": "Shell",
-   "topics": []
-  },
-  {
    "name": "arfix",
    "url": "https://github.com/mrx7014/arfix",
    "text": "Fix broken Arabic text rendering in the terminal",
    "fork": false,
    "stars": 2,
    "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "DOOMeKERNEL",
-   "url": "https://github.com/mrx7014/DOOMeKERNEL",
-   "text": "",
-   "fork": false,
-   "stars": 2,
-   "language": "C",
-   "topics": []
-  },
-  {
-   "name": "android_device_samsung_a23-twrp",
-   "url": "https://github.com/mrx7014/android_device_samsung_a23-twrp",
-   "text": "Twrp Tree For Samsung A23 4G (SM-A235)",
-   "fork": false,
-   "stars": 2,
-   "language": "Makefile",
    "topics": []
   },
   {
@@ -447,21 +392,21 @@
    "topics": []
   },
   {
+   "name": "gruvbox-plus-icon-pack",
+   "url": "https://github.com/mrx7014/gruvbox-plus-icon-pack",
+   "text": "Free, feature-rich, easily customizable Android dashboard for icon packs",
+   "fork": true,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
    "name": "AppsPorter",
    "url": "https://github.com/mrx7014/AppsPorter",
    "text": "Tool for porting OEM specific apps on every devices (Manual + AI Agents)",
    "fork": true,
    "stars": 1,
    "language": "Smali",
-   "topics": []
-  },
-  {
-   "name": "DSU-Sideloader-Extended",
-   "url": "https://github.com/mrx7014/DSU-Sideloader-Extended",
-   "text": "A simple app made to help users easily install GSIs via DSU's Android feature.",
-   "fork": true,
-   "stars": 1,
-   "language": "Kotlin",
    "topics": []
   },
   {
@@ -492,30 +437,12 @@
    "topics": []
   },
   {
-   "name": "vendor_hardware_overlay",
-   "url": "https://github.com/mrx7014/vendor_hardware_overlay",
-   "text": "This includes hardware-specific overlays for Treble ROM",
-   "fork": true,
-   "stars": 1,
-   "language": "Makefile",
-   "topics": []
-  },
-  {
    "name": "specter",
    "url": "https://github.com/mrx7014/specter",
    "text": "Unified Play Integrity and root hiding stack for Android",
    "fork": true,
    "stars": 1,
    "language": "TypeScript",
-   "topics": []
-  },
-  {
-   "name": "Droidspaces-rootfs-Desktop-builder",
-   "url": "https://github.com/mrx7014/Droidspaces-rootfs-Desktop-builder",
-   "text": "为 Droidspaces 用户打造带硬件加速的桌面环境",
-   "fork": true,
-   "stars": 1,
-   "language": "Shell",
    "topics": []
   },
   {
@@ -534,15 +461,6 @@
    "fork": true,
    "stars": 1,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "Game-Hub",
-   "url": "https://github.com/mrx7014/Game-Hub",
-   "text": "A simple launcher with material 3 expressive ui for all your games.",
-   "fork": true,
-   "stars": 1,
-   "language": "Kotlin",
    "topics": []
   },
   {
@@ -615,24 +533,6 @@
    "fork": true,
    "stars": 1,
    "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "freeroot",
-   "url": "https://github.com/mrx7014/freeroot",
-   "text": "",
-   "fork": true,
-   "stars": 0,
-   "language": "Shell",
-   "topics": []
-  },
-  {
-   "name": "Samsung_KernelSU_SUSFS",
-   "url": "https://github.com/mrx7014/Samsung_KernelSU_SUSFS",
-   "text": "Samsung Kernels with KernelSU & SUSFS",
-   "fork": true,
-   "stars": 0,
-   "language": null,
    "topics": []
   },
   {

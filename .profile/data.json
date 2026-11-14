@@ -1,37 +1,37 @@
 {
- "key": "c7fc7dd2",
- "stars": 210,
- "contributions": 363,
- "repos": 38,
- "followers": 161,
+ "key": "19afab57",
+ "stars": 222,
+ "contributions": 365,
+ "repos": 43,
+ "followers": 160,
  "languages": [
   [
+   "C",
+   828670593
+  ],
+  [
+   "Assembly",
+   10027035
+  ],
+  [
    "Java",
-   7076570
+   6982901
   ],
   [
    "Kotlin",
-   2877521
+   2988849
   ],
   [
-   "Jupyter Notebook",
-   648734
-  ],
-  [
-   "TypeScript",
-   626257
-  ],
-  [
-   "JavaScript",
-   131998
+   "Perl",
+   1234300
   ],
   [
    "Python",
-   71107
+   964837
   ],
   [
-   "CSS",
-   53836
+   "TypeScript",
+   729074
   ]
  ],
  "days": [
@@ -128,15 +128,27 @@
    {
     "c": 1,
     "day": 11,
-    "today": true
+    "today": false
    },
-   null,
-   null,
-   null
+   {
+    "c": 2,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": true
+   }
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 11
  },
  "pins": [
@@ -293,12 +305,30 @@
    ]
   },
   {
+   "name": "SuperMario-Tweaker",
+   "url": "https://github.com/mrx7014/SuperMario-Tweaker",
+   "text": "A tweaker module that can improve any device performance and stability (Gaming, Daily Useage, etc....)",
+   "fork": false,
+   "stars": 3,
+   "language": "CSS",
+   "topics": []
+  },
+  {
    "name": "Servers-Setup-Script",
    "url": "https://github.com/mrx7014/Servers-Setup-Script",
    "text": "",
    "fork": false,
    "stars": 3,
    "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "SpoofingCollection",
+   "url": "https://github.com/mrx7014/SpoofingCollection",
+   "text": "A collection of Magisk root modules and LSPosed (Xposed) modules for spoofing Android device fingerprints (manufacturer, model, build props, etc.) to appear as different devices.",
+   "fork": false,
+   "stars": 3,
+   "language": "Java",
    "topics": []
   },
   {
@@ -365,12 +395,39 @@
    "topics": []
   },
   {
+   "name": "OneUISpoofer",
+   "url": "https://github.com/mrx7014/OneUISpoofer",
+   "text": "Spoof your OneUI version",
+   "fork": false,
+   "stars": 2,
+   "language": "Shell",
+   "topics": []
+  },
+  {
    "name": "arfix",
    "url": "https://github.com/mrx7014/arfix",
    "text": "Fix broken Arabic text rendering in the terminal",
    "fork": false,
    "stars": 2,
    "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "OneUFy",
+   "url": "https://github.com/mrx7014/OneUFy",
+   "text": "Take OneUI to another level",
+   "fork": false,
+   "stars": 2,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "DOOMeKERNEL",
+   "url": "https://github.com/mrx7014/DOOMeKERNEL",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "C",
    "topics": []
   },
   {
